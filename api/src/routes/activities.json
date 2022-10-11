@@ -1,0 +1,30 @@
+[
+    {
+        "name": "SKI",
+        "dificultad": 3,
+        "duracion": 1999,
+        "temporada": "invierno",
+        "idPais": ["ARG", "CHL", "BRA"]
+    },
+    {
+        "name": "ALA DELTA",
+        "dificultad": 5,
+        "duracion": 1999,
+        "temporada": "verano",
+        "idPais": ["ARG", "CHL", "BRA"]
+    },
+    {
+        "name": "SURF",
+        "dificultad": 4,
+        "duracion": 1999,
+        "temporada": "verano",
+        "idPais": ["USA", "PER", "AUS", "IDN", "ESP"]
+    },
+    {
+        "name": "TREKKING",
+        "dificultad": "3",
+        "duracion": "1000",
+        "temporada": "verano",
+        "idPais": ["NZL", "NPL", "BTN", "PER", "CAN"]
+    }
+]
